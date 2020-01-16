@@ -37,28 +37,10 @@ const About: React.FC = () => (
           <PostFullContent className="post-full-content">
             <div className="post-content">
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc commodo finibus leo,
-                non tempus magna vehicula ac. Maecenas mollis ante finibus pharetra imperdiet.
-                Maecenas in aliquam purus. Nam et massa a nulla fermentum dapibus sit amet in neque.
-                Ut ipsum ipsum, rhoncus a sodales pellentesque, interdum a elit. Nullam aliquam
-                tellus nibh, eget laoreet dui aliquet non. Vestibulum malesuada ante at diam tempus,
-                ac interdum risus scelerisque. Sed ipsum neque, vulputate porta diam eget, consequat
-                blandit nulla. Integer volutpat velit vitae purus lacinia aliquam. Integer bibendum
-                ipsum vitae magna pulvinar, nec vehicula dolor vulputate. Nulla eu massa id orci
-                placerat finibus vel sit amet eros. Vestibulum quis consequat massa. Sed sagittis
-                sollicitudin massa at commodo. Praesent diam nisi, imperdiet posuere eleifend nec,
-                blandit ac massa.
+                The TomorrowScale podcast is a passion project created by Justin Briggs, intended for those interested in frontier technology companies.
               </p>
               <p>
-                Vestibulum semper pretium ipsum nec congue. Ut ac eros nisi. Donec leo sem, aliquam
-                mollis sapien ultrices, dapibus congue diam. Proin viverra dapibus blandit. Ut
-                mauris tellus, tristique id felis vel, venenatis vestibulum nunc. Nam molestie
-                pulvinar nibh, eget egestas augue. Maecenas tellus arcu, mattis ut ipsum non,
-                sollicitudin convallis nunc. Donec nec neque tristique, aliquet lacus id, laoreet
-                nunc. Cras dapibus nisi nulla, ullamcorper faucibus neque suscipit ac. Donec eget
-                orci venenatis justo lobortis volutpat. Proin vel placerat nisl. Integer arcu nunc,
-                sodales eu fringilla non, aliquam non diam. Cras placerat, massa et faucibus
-                pretium, ante elit tincidunt tellus, tristique ultricies velit quam et massa.
+                The host of the TomorrowScale Podcast is Justin Briggs. Justin is an executive with deep experience building biotechnology, nanotechnology, and software companies. Justin currently serves as Senior Director of Drug Development at Tetherex Pharmaceuticals, a company developing a first-in-class monoclonal antibody in Phase 2 clinical trials for multiple inflammatory conditions. Justin also advises companies on challenging research, product development, and commercialization programs as Principal of BriggsBio, LLC.  Previously, Justin served as Vice President of Development & Operations at Accele BioPharma and Venture Associate at Accele Venture Partners, a biotechnology accelerator and seed-stage venture capital firm where he managed a portfolio of therapeutic and diagnostics companies tackling diseases ranging from diabetes, infectious diseases, cancer, and even hearing loss. Prior to that, Justin served various research, development, operations, and management roles for venture-backed companies including Altheus Therapeutics, Crescendo Bioscience (acquired Myriad Genetics), PolySkope Labs, Ted’s Brain Science, Southwest Nanotechnologies, and KemmX Corp. Justin co-founded companies including Chorus Labs, a productivity software company, and SnapLab Technologies, which developed high-throughput automated analytical equipment and machine vision AI systems for energy exploration. Justin has a degree in Biomedical Sciences from the University of Oklahoma, an M.B.A. with High Honors from Oklahoma City University, and holds multiple US and International patents.
               </p>
               <p>
                 In nunc lacus, dapibus vitae lacus sit amet, efficitur iaculis neque. Suspendisse ut
