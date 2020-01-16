@@ -6,6 +6,7 @@ module.exports = {
     description: 'How to Build the Future',
     siteUrl: 'https://briggsly.github.io/gatsby-casper/', // full path to blog - no ending slash
   },
+  pathPrefix: "/gatsby-casper",
   mapping: {
     'MarkdownRemark.frontmatter.author': 'AuthorYaml',
   },
