@@ -1,3 +1,13 @@
-- id: speeches
+- id: podcast
   description: Some of the greatest words ever spoken.
   image: img/speeches-cover.jpg
+- id: biotech
+  description: Using biology, chemistry, and physics to solve the world's problems.
+- id: nanotech
+  description: Materials at the smallest scale, doing big things.
+- id: drug delivery
+  description: The drug needs to get there to do its job.
+- id: agtech
+  description: Money doesn't grow on trees, but innovation can.
+- id: drug discovery
+  description: Where are we going to get new drugs? 

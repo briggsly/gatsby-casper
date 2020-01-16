@@ -1,9 +1,14 @@
-Title: Proof of Prophylaxis - MIT Langer Lab
-Slug: mit-langer-lab-jaklenec-mchugh-proof-of-prophylaxis
-Category: podcast
-Tags: mit-langer, biotech, research
-Date: 2020-01-02
-Modified: 2020-01-03
+---
+layout: post
+title: "Medicine from Microbes - Lodo Therapeutics"
+author: briggsly
+tags: ["podcast", "research", "biotech", "drug delivery", "materials science", "vaccines", "machine vision"]
+image: img/mit-langer-lab-proof-of-prophylaxis.png
+date: "2020-01-02"
+draft: false
+---
+
+# Proof of Prophylaxis - MIT Langer Lab
 
 ### Guests: Dr. Ana Jaklenec, MIT Langer Lab &amp; Dr. Kevin McHugh, Rice University
 

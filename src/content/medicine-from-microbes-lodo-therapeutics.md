@@ -1,11 +1,14 @@
-Title: Medicine from Microbes - Lodo Therapeutics
-Slug: medicine-from-microbes-lodo-therapeutics
-Category: podcast
-Tags: lodo-therapeutics, biotech, startups
-Illustration: featured/medicine-from-microbes-1680px.png
-Date: 2019-11-19
-Modified: 2019-11-20
+---
+layout: post
+title: "Medicine from Microbes - Lodo Therapeutics"
+author: briggsly
+tags: ["podcast", "startups", "biotech", "drug discovery", "small molecules", "synthetic biology"]
+image: img/medicine-from-microbes-1680px.png
+date: "2020-01-13"
+draft: false
+---
 
+# Medicine from Microbes - Lodo Therapeutics
 
 ## Guests: Dr. Dale Pfost, CEO & Dr. Steven Colletti, SVP R&D - Lodo Therapeutics
 
