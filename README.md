@@ -41,9 +41,8 @@ Now push to whatever repo you want!
   - [x] page titles
   - [x] pagination
 
-### Deploy to Netlify
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/scttcper/gatsby-casper)
+### Deploy to Github pages
+git push remote origin master
 
 ## How to configure Google Analytics
 Edit `gatsby-config.js` and add your tracking ID
