@@ -3,7 +3,7 @@ layout: post
 title: "Medicine from Microbes - Lodo Therapeutics"
 author: briggsly
 tags: ["podcast", "startups", "biotech", "drug discovery", "small molecules", "synthetic biology"]
-image: img/medicine-from-microbes-1680px.png
+image: img/lodo-therapeutics-medicine-from-microbes.png
 date: "2020-01-13"
 draft: false
 ---

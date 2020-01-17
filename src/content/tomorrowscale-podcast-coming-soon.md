@@ -1,13 +1,14 @@
-Title: TomorrowScale Podcast Preview
-Slug: podcast-preview-episode
-Category: podcast
-Illustration: tomorrowscale_bg.jpg
-Date: 2019-07-10
-Modified: 2019-07-11
+---
+layout: post
+title: "TomorrowScale Podcast Preview"
+author: briggsly
+tags: ["podcast", "science", "research", "startups", "biotech", "nanotech", "technology", "materials"]
+image: img/tomorrowscale_bg.jpg
+date: "2019-07-10"
+draft: false
+---
 
-
-
-## Welcome to the TomorrowScale podcast.
+# Welcome to the TomorrowScale podcast.
 
 ### The TomorrowScale Podcast is a series of conversations with the scientists and leaders who are building the future.
 

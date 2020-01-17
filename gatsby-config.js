@@ -4,9 +4,9 @@ module.exports = {
   siteMetadata: {
     title: 'TomorrowScale',
     description: 'How to Build the Future',
-    siteUrl: 'https://briggsly.github.io/gatsby-casper/', // full path to blog - no ending slash
+    siteUrl: 'https://briggsly.github.io/gatsby-casper', // full path to blog - no ending slash
   },
-  pathPrefix: "/gatsby-casper",
+  pathPrefix: '/gatsby-casper',
   mapping: {
     'MarkdownRemark.frontmatter.author': 'AuthorYaml',
   },

@@ -78,22 +78,16 @@ const Footer: React.FC = () => {
           )}
         </section>
         <SiteFooterNav>
-          <Link to="/">Latest Posts</Link>
-          {config.facebook && (
-            <a href={config.facebook} target="_blank" rel="noopener noreferrer">
-              Facebook
-            </a>
-          )}
+          <Link to="/">Read</Link>
+          <a href="https://anchor.fm/tomorrowscale" target="_blank" rel="noopener noreferrer">
+            Listen
+          </a>
           {config.twitter && (
             <a href={config.twitter} target="_blank" rel="noopener noreferrer">
-              Twitter
+              Tweet
             </a>
           )}
-
-          <a href="https://anchor.fm/tomorrowscale" target="_blank" rel="noopener noreferrer">
-            Listin
-          </a>
-
+          <Link to="/contact.html">Connect</Link>
           <a href="/rss.xml">RSS</a>
         </SiteFooterNav>
       </div>

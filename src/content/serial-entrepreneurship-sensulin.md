@@ -3,7 +3,7 @@ layout: post
 title: "Serial Entrepreneurship - Sensulin"
 author: briggsly
 tags: ["podcast", "startups", "biotech", "nanotech", "drug delivery", "diabetes"]
-image: img/medicine-from-microbes-1680px.png
+image: img/sensulin-serial-entrepreneurship.png
 date: "2020-10-01"
 draft: false
 ---
