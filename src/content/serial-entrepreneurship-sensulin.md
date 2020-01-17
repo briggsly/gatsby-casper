@@ -1,18 +1,14 @@
 ---
 layout: post
 title: "Serial Entrepreneurship - Sensulin"
-author: briggsly
+date: "2019-10-01"
 tags: ["podcast", "startups", "biotech", "nanotech", "drug delivery", "diabetes"]
 image: img/sensulin-serial-entrepreneurship.png
-date: "2020-10-01"
+author: Justin Briggs
 draft: false
 ---
 
-# "Serial Entrepreneurship" 
-
-## Guest: Mike Moradi, CEO [*Sensulin*](https://www.sensulin.com/)
-
-What is the difference between an entrepreneur and a serial entrepreneur? Is there a difference? We dig into this question with a four-time hard tech entrepreneur. Mike Moradi is the co-founder and CEO of Sensulin, a company marrying nanotechnology with biotechnology to develop a novel treatment for diabetes that releases insulin on when a patient has high blood sugar.  Mike has founded or helped establish more than a dozen nanotechnology and biotechnology companies, and was selected as a Young Global Leader by the World Economic Forum.
+### Guest: Mike Moradi, CEO [*Sensulin*](https://www.sensulin.com/)
 
 <iframe src="https://anchor.fm/tomorrowscale/embed/episodes/Serial-Entrepreneurship-with-Mike-Moradi---Sensulin-e5o61u/a-apcd03" width="400px" height="102px" frameborder="0" scrolling="no"></iframe>
 

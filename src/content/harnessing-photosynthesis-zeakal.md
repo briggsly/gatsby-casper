@@ -1,14 +1,14 @@
 ---
 layout: post
 title: "Harnessing Photosynthesis - Zeakal"
-author: briggsly
+date: "2019-10-20"
 tags: ["podcast", "startups", "agtech", "biotech"]
 image: img/zeakal-harnessing-photosynthesis.png
-date: "2019-10-20"
+author: Justin Briggs
 draft: false
 ---
 
-# Harnessing Photosynthesis - Zeakal
+### Guests: Han Chen, CEO & Greg Bryan, PhD, CTO - [*Zeakal*](https://zeakal.com)
 
 Unanticipated results can lead to great discoveries. Zeakal is a company founded by turning such an unexpected outcome into a promising biotechnology company. We conducted multiple interviews between 3 cities, two hemispheres, and a dozen time zones. We have one of the co-inventors, Dr. Greg Bryan, CTO, take us through the science behind the PhotoSeed technology and the genetics of photosynthesis. Then, stateside, we dig into the agricultural biotech industry and how Zeakal the company is approaching it with CEO Han Chen.
 

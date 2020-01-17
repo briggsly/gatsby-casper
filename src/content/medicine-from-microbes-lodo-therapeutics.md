@@ -1,16 +1,14 @@
 ---
 layout: post
 title: "Medicine from Microbes - Lodo Therapeutics"
-author: briggsly
+date: "2020-01-13"
 tags: ["podcast", "startups", "biotech", "drug discovery", "small molecules", "synthetic biology"]
 image: img/lodo-therapeutics-medicine-from-microbes.png
-date: "2020-01-13"
+author: Justin Briggs
 draft: false
 ---
 
-# Medicine from Microbes - Lodo Therapeutics
-
-## Guests: Dr. Dale Pfost, CEO & Dr. Steven Colletti, SVP R&D - Lodo Therapeutics
+### Guests: Dr. Dale Pfost, CEO & Dr. Steven Colletti, SVP R&D - [*Lodo Therapeutics*](http://lodotherapeutics.com)
 
 On this episode, we'll hear about Lodo and their plan to discover medicine from microbes. This is the TomorrowScale Podcast. Hosted by Justin Briggs.
 

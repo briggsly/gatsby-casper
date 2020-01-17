@@ -84,10 +84,10 @@ export const PostFullTitle = styled.h1`
 `;
 
 const PostFullImage = styled.figure`
-  margin: 0 -10vw -165px;
-  height: 800px;
+  margin: 0 -10vw -85px;
+  height: 600px;
   background: ${colors.lightgrey} center center;
-  background-size: cover;
+  background-size: contain;
   border-radius: 5px;
 
   @media (max-width: 1170px) {
@@ -275,12 +275,12 @@ const PageTemplate: React.FC<PageTemplateProps> = props => {
                   </PostFullMetaDate>
                   {post.frontmatter.tags &&
                     post.frontmatter.tags.length > 0 && (
-                      <>
-                        <DateDivider>/</DateDivider>
-                        <Link to={`/tags/${_.kebabCase(post.frontmatter.tags[0])}/`}>
-                          {post.frontmatter.tags[0]}
-                        </Link>
-                      </>
+                    <>
+                      <DateDivider>/</DateDivider>
+                      <Link to={`/tags/${_.kebabCase(post.frontmatter.tags[0])}/`}>
+                        {post.frontmatter.tags[0]}
+                      </Link>
+                    </>
                   )}
                 </PostFullMeta>
                 <PostFullTitle>{post.frontmatter.title}</PostFullTitle>
@@ -330,7 +330,7 @@ export default PageTemplate;
 
 export const query = graphql`
   query($slug: String, $primaryTag: String) {
-    logo: file(relativePath: { eq: "img/ghost-logo.png" }) {
+    logo: file(relativePath: { eq: "img/tomorrowscale-logo-white.png" }) {
       childImageSharp {
         fixed {
           ...GatsbyImageSharpFixed
@@ -349,7 +349,7 @@ export const query = graphql`
         tags
         image {
           childImageSharp {
-            fluid(maxWidth: 3720) {
+            fluid(maxWidth: 1200) {
               ...GatsbyImageSharpFluid
             }
           }

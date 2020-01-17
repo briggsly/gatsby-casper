@@ -120,7 +120,7 @@ const Author: React.FC<AuthorTemplateProps> = props => {
       const isDraft = (edge.node.frontmatter.draft !== true ||
         process.env.NODE_ENV === 'development');
       return isDraft && edge.node.frontmatter.author && edge.node.frontmatter.author.id === author.id;
-    }
+    },
   );
   const totalCount = edges.length;
 
@@ -160,9 +160,7 @@ const Author: React.FC<AuthorTemplateProps> = props => {
           css={[outer, SiteHeader]}
           style={{
             // eslint-disable-next-line @typescript-eslint/camelcase
-            backgroundImage: author.profile_image ?
-              `url(${author.profile_image.childImageSharp.fluid.src})` :
-              '',
+            backgroundImage: `url('${props.data.header.childImageSharp.fluid.src}')`,
           }}
         >
           <div css={inner}>
@@ -279,9 +277,18 @@ export const pageQuery = graphql`
       }
       avatar {
         childImageSharp {
-          fluid(maxWidth: 200) {
+          fluid(maxWidth: 346) {
             ...GatsbyImageSharpFluid
           }
+        }
+      }
+    }
+    header: file(relativePath: { eq: "img/tomorrowscale-bg.jpg" }) {
+      childImageSharp {
+        # Specify the image processing specifications right in the query.
+        # Makes it trivial to update as your page's design changes.
+        fluid(maxWidth: 2000) {
+          ...GatsbyImageSharpFluid
         }
       }
     }

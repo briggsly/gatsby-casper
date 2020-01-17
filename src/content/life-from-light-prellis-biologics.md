@@ -1,14 +1,12 @@
 ---
 layout: post
 title: "Life from Light - Prellis Biologics"
-author: briggsly
+date: "2019-10-20"
 tags: ["podcast", "startups", "biotech", "bioprinting"]
 image: img/prellis-biologics-life-from-light.png
-date: "2019-10-20"
+author: Justin Briggs
 draft: false
 ---
-
-# Life from Light - Prellis Biologics
 
 ### Guest: Melanie Mathue, Ph.D. - Co-founder, CEO - [*Prellis Biologics*](https://prellisbiologics.com)
 
